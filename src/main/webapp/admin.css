@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+html { 
+  background: url(logo_salle.jpg) no-repeat center fixed; 
+  background-size: cover;
+}
+.form-ad{
+	height:800px;
+	width:800px;
+	
+}
